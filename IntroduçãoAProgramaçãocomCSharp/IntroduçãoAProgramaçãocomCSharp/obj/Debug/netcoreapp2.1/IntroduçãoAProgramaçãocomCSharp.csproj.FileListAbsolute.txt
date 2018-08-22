@@ -1,0 +1,11 @@
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.csprojAssemblyReference.cache
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.AssemblyInfoInputs.cache
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.AssemblyInfo.cs
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\bin\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.deps.json
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\bin\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.runtimeconfig.json
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\bin\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.runtimeconfig.dev.json
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\bin\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.dll
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\bin\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.pdb
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.dll
+C:\Users\Eric Almeida\source\repos\IntroduçãoAProgramaçãocomCSharp\IntroduçãoAProgramaçãocomCSharp\obj\Debug\netcoreapp2.1\IntroduçãoAProgramaçãocomCSharp.pdb
