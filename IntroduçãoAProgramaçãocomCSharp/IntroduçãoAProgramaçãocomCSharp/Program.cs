@@ -14,13 +14,22 @@ namespace IntroduçãoAProgramaçãocomCSharp
              * de 1 a 40 separados por um espaço em
              * branco, da seguinte maneira:*/
 
-            int n = 0;
+            /*int n = 0;
             do
             {
                 Console.Write(n + "\t");
                 n++;
             } while (n <= 40);
+            */
 
+            /*a.Use uma única instrução Console.Write*/
+            Console.Write("1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 ");
+
+            /*b. Use quatro instruções Console.Write*/
+            Console.Write("\n1 2 3 4 5 6 7 8 9 10\t");
+            Console.Write("11 12 13 14 15 16 17 18 19 20\t");
+            Console.Write("21 22 23 24 25 26 27 28 29 30\t");
+            Console.Write("31 32 33 34 35 36 37 38 39 40\t");
 
             Console.ReadKey(true);
             Console.Clear();
@@ -128,7 +137,8 @@ soma, subtração, multiplicação e divisão*/
             Console.WriteLine("Exercicio 8");
             /*Escreva um programa que leia dois números inteiros e determine e verifique se o primeiro
              * é um múltiplo do segundo. Por exemplo: se o usuário digitar 15 e 3, o primeiro número
-             * será múltiplo do segundo; se o usuário digitar 2 e 4, o primeiro número não será múltiplo             * do segundo. Dica: use o operador módulo para obter o resto da divisão.*/
+             * será múltiplo do segundo; se o usuário digitar 2 e 4, o primeiro número não será múltiplo
+             * do segundo. Dica: use o operador módulo para obter o resto da divisão.*/
 
 
             Console.WriteLine("\nConferindo multiplos");
