@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eric Almeida\\source\\repos\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Eric Almeida\\Desktop\\c#\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp.csproj",
       "projectName": "IntroduçãoAProgramaçãocomCSharp",
-      "projectPath": "C:\\Users\\Eric Almeida\\source\\repos\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp.csproj",
+      "projectPath": "C:\\Users\\Eric Almeida\\Desktop\\c#\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp.csproj",
       "packagesPath": "C:\\Users\\Eric Almeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eric Almeida\\source\\repos\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Eric Almeida\\Desktop\\c#\\IntroduçãoAProgramaçãocomCSharp\\IntroduçãoAProgramaçãocomCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
